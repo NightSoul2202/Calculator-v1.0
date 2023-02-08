@@ -78,7 +78,7 @@
             this.видToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.оПрограміToolStripMenuItem});
             this.видToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.видToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.видToolStripMenuItem.ForeColor = System.Drawing.Color.Black;
             this.видToolStripMenuItem.Name = "видToolStripMenuItem";
             this.видToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
             this.видToolStripMenuItem.Text = "Налаштування";
